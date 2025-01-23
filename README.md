@@ -27,9 +27,9 @@ Businesses need to understand **customer purchasing behavior** to improve **rete
   - **Key Insight**: **Electronics and Clothing contribute to the highest revenue.**
 
 ## Findings from Data Cleaning
-- ✅ **No Missing Values** → Data is complete and reliable.
-- ✅ **No Duplicates** → Ensures consistency across datasets.
-- ✅ **Date Formatting** → Converted `SignupDate` and `TransactionDate` to datetime format.
+- **No Missing Values** → Data is complete and reliable.
+- **No Duplicates** → Ensures consistency across datasets.
+- **Date Formatting** → Converted `SignupDate` and `TransactionDate` to datetime format.
 
 ## Exploratory Data Analysis (EDA)
 - **Customer Signup Trends**: Peak signups in **March and October**.
